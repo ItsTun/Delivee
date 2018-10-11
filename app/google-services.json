@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "902685503418",
+    "firebase_url": "https://delivee-312e4.firebaseio.com",
+    "project_id": "delivee-312e4",
+    "storage_bucket": "delivee-312e4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:902685503418:android:0ca429e4fb44b82e",
+        "android_client_info": {
+          "package_name": "com.example.tunhanmyae.delivee"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "902685503418-2vuu0fpe3n3clo69ltpehrh68ok6hpc2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.tunhanmyae.delivee",
+            "certificate_hash": "58ec607bd8214c5fc056216c93065259c5a396bf"
+          }
+        },
+        {
+          "client_id": "902685503418-b74e1ukmv13obla2k6nqpoi80dshsckf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCGaxKdfzyeDRh7Q1i6EPhlcscvMyFMdQ4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "902685503418-b74e1ukmv13obla2k6nqpoi80dshsckf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
